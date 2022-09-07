@@ -52,6 +52,8 @@ download git
 
 * `git push` // envia alterações locais para o repositório remoto
 
+* `git push origin nome_branch` // publica a branch já no repositório do github
+
 * `git clone` // clonar um projeto
 
 * `git pull` // puxa do repositorio remoto
