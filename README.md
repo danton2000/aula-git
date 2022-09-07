@@ -28,7 +28,7 @@ download git
 
 - [x] Você precisa voltar um arquivo para um determinando momento da linha do tempo
 
-- [] Recuperar algo deletado
+- [x] Recuperar algo deletado
 
 # COMMANDS
 
